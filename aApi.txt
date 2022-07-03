@@ -1,0 +1,128 @@
+URL
+https://northeurope-2.in.applicationinsights.azure.com//v2/track
+
+Request Method
+POST
+
+Remote Address and Port:
+13.69.229.241:443
+
+URL:
+https://zalaris-test.boost.ai/api/chat/v2
+
+Request Method 
+POST
+
+Remote Address and port
+34.247.242.62:443
+
+URL: 
+https://zaltestcors.azurewebsites.net/oauthasservices-a6199fbbc.hana.ondemand.com:443/oauth2/api/v1/token?grant_type=authorization_code&client_id=boostapiconnect&code=f4ded5ed-bb63-3c66-9dff-525bc2f13129
+
+Request Method:
+POST
+
+Remote Address and Port
+13.69.228.9:443
+
+URL: 
+https://zaltestcors.azurewebsites.net/oauthasservices-a6199fbbc.hana.ondemand.com:443/oauth2/api/v1/token?grant_type=authorization_code&client_id=boostapiconnect&code=f4ded5ed-bb63-3c66-9dff-525bc2f13129
+
+Request Methods 
+OPTIONS
+
+Remote Address and port 
+13.69.228.9:443
+
+URL: 
+https://oauthasservices-a6199fbbc.hana.ondemand.com/oauth2/api/v1/authorize?client_id=boostapiconnect&response_type=code
+
+Request Method 
+GET & 301
+
+Remote Address: 
+155.56.210.43:443
+
+URL
+https://ui5.sap.com/1.71.36/resources/sap/f/messagebundle_en.properties
+
+Remote address and port
+[2600:140f:400:18c::347c]:443
+
+URL:https://ui5.sap.com/1.71.36/resources/sap/m/messagebundle_en.properties
+
+Remote Address
+ [2600:140f:400:18c::347c]:443
+
+URL: 
+https://ui5.sap.com/1.71.36/resources/sap/ui/core/cldr/en.json
+
+Remote Address and Port:
+[2600:140f:400:18c::347c]:443
+
+URL: 
+https://zalaris-test.boost.ai/api/auth/saml2/?acs
+
+Remote Address and port:
+34.247.242.62:443
+
+URL: 
+https://zalaris-test.boost.ai/chatPanel/chatPanel.js
+
+Remote Address and Port
+ 34.247.242.62:443
+
+URL: https://ui5.sap.com/1.71.36/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2
+
+Remote Address: 
+[2600:140f:400:18c::347c]:443
+
+URL
+https://ui5.sap.com/1.71.36/resources/sap/m/messagebundle_en_US.properties
+
+Remote Address:
+104.110.19.105:443
+
+URL: https://ui5.sap.com/1.71.36/resources/sap/ui/core/messagebundle_en_US.properties
+
+Remote Address: 
+104.110.19.105:443
+
+Request URL: https://ui5.sap.com/1.71.36/resources/sap/suite/ui/commons/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/f/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/uxap/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/ui/unified/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/ui/table/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/suite/ui/microchart/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/tnt/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/ui/layout/messagebundle_en_US.properties
+https://ui5.sap.com/1.71.36/resources/sap/ui/integration/messagebundle_en_US.properties
+
+Remote Address and port:
+104.110.19.105:443
+
+Url:
+https://ui5.sap.com/1.71.36/resources/sap/tnt/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/f/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/m/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/suite/ui/microchart/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/suite/ui/commons/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/ui/table/library-preload.js
+https://ui5.sap.com/1.71.36/resources/sap/ui/unified/library-preload.js
+
+Remote Address and port 
+[2600:140f:400:18c::347c]:443
+
+URL: 
+https://js.monitor.azure.com/scripts/b/ai.2.min.js
+
+Remote address and port
+ 13.107.246.53:443
+
+URL: 
+https://ui5.sap.com/1.71.36/resources/sap-ui-core.js?21.10.0006
+
+Remote Address:
+104.110.19.105:443
+
+
